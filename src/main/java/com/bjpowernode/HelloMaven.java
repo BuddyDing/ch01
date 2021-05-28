@@ -9,6 +9,8 @@ public class HelloMaven {
         HelloMaven helloMaven = new HelloMaven();
         int ans = helloMaven.add(10, 20);
         System.out.println("10 + 20 = " + ans);
+        System.out.println("10 + 20 = " + ans);
+        System.out.println("10 + 20 = " + ans);
     }
 
     public int add(int n1, int n2) {
